@@ -14,10 +14,10 @@ I take the lazy genius approach—minimum effort, maximum results. Currently jug
 - **DocuHaul**  
   *Automated compliance paperwork platform for trailer manufacturers*
 
-- **NexusOS**  
+- **nexOS™**  
   *AI-powered cognitive operating system with behavioral analytics*
 
-- **Red Team Dashboard**  
+- **Command & Cauldron™**  
   *Advanced phishing intelligence and anomaly detection system*
 
 ---
